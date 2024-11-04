@@ -1,3 +1,5 @@
 # learning_ai
-my ai programs with python
-author nancy garg
+my ai programs with python.
+</br>
+<h1>author nancy garg</h1>
+
